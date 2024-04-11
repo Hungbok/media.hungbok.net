@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="48" viewBox="0 -960 960 960" width="48"><path d="M295-244v-478q0-22 14.071-35 14.072-13 32.5-13 6.197 0 12.813 1.5 6.616 1.5 13.495 5.429L744-522q10.5 7 16.25 17t5.75 22q0 12-5.75 22T744-444L367.879-202.929Q361-199 354.359-198q-6.64 1-12.859 1-18.5 0-32.5-12.275T295-244Z" style="fill:#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 8 9">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M7.6,5.2l-6.4,3.7C.7,9.2,0,8.8,0,8.2V.8C0,.2.7-.2,1.2.1l6.4,3.7c.4.2.5.7.3,1.1,0,.1-.2.2-.3.3"/>
+</svg>
