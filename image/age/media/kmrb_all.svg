@@ -1,13 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 720 720.011" enable-background="new 0 0 720 720.011" xml:space="preserve">
-<path fill="#00974C" d="M638.847,720.011H81.176C36.367,720.011,0,683.678,0,638.852V81.17C0,36.345,36.367,0,81.176,0h557.671
-	C683.684,0,720,36.345,720,81.17v557.682C720,683.678,683.684,720.011,638.847,720.011z"/>
-<path fill="#FFFFFF" d="M206.64,542.792l-8.649-54.639l-63.25,0.033l-8.627,54.584l-81.512,0.022v-0.975l77.176-365.249
-	l89.147,0.011l77.176,365.26l0.023,0.952H206.64z M166.351,294.465l-20.133,124.652h40.266L166.351,294.465z"/>
-<polygon fill="#FFFFFF" points="302.464,542.792 302.464,176.558 383.976,176.558 383.976,469.454 479.828,469.454 479.828,542.792 
-	"/>
-<polygon fill="#FFFFFF" points="497.099,542.77 497.099,176.558 578.588,176.569 578.56,469.454 674.463,469.454 674.463,542.804 
-	"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 629.9 366.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M162,366.2l-8.6-54.6h-63.2s-8.6,54.6-8.6,54.6H0s0-1,0-1L77.2,0h89.1s77.2,365.3,77.2,365.3v1s-81.5,0-81.5,0h0ZM121.7,117.9l-20.1,124.7h40.3l-20.1-124.7Z"/>
+  <polygon class="cls-1" points="257.9 366.2 257.9 0 339.4 0 339.4 292.9 435.2 292.9 435.2 366.2 257.9 366.2"/>
+  <polygon class="cls-1" points="452.5 366.2 452.5 0 534 0 534 292.9 629.9 292.9 629.9 366.2 452.5 366.2"/>
 </svg>
