@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 262.5 262.5">
+<svg id="_레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 232.5 114.7">
   <defs>
     <style>
       .cls-1 {
-        fill: #007dc7;
-      }
-
-      .cls-1, .cls-2 {
-        stroke-width: 0px;
-      }
-
-      .cls-2 {
         fill: #fff;
+        stroke-width: 0px;
       }
     </style>
   </defs>
-  <g id="svg8" sodipodi:docname="BBFC R18 2019.svg">
-    <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
-      <g id="g331">
-        <path id="path253" class="cls-1" d="M248.7,0H13.8C6.2,0,0,6.2,0,13.8v234.8c0,7.7,6.2,13.8,13.8,13.8h234.8c7.6,0,13.8-6.2,13.8-13.8V13.8C262.5,6.2,256.3,0,248.7,0" inkscape:connector-curvature="0"/>
-        <path id="path255" class="cls-2" d="M17.8,74.2h35.3c14.8.2,24.7.2,34.4,8,6.9,5.7,12.3,14.5,12.3,27.3,0,21.2-15.6,28.6-21.9,30.5l24.7,45.1h-23.7l-22-41.2h-18.6v41.2h-20.6v-110.9ZM38.4,92.2v34.7h7.2c7.1,0,9.7-.2,13.7-.3,4.5-.2,19.5-.9,19.5-17.1s-.2-10.5-8.8-14.9c-4.4-2.2-9.8-2.4-22-2.4h-9.6Z" inkscape:connector-curvature="0"/>
-        <path id="path257" class="cls-2" d="M155.1,73.8v111.4h-20.3v-63.7c0-10.6,0-13.7-9.1-13.7h-18.2v-12.7h2.1c10.4-.2,24.4-.3,28.9-21.3h16.5Z" inkscape:connector-curvature="0"/>
-        <path id="path259" class="cls-2" d="M250.2,153.2c0,20.3-17.5,33.5-41.8,33.5s-41.1-14.2-41.1-33.5,12.7-23.6,18.3-26.2c-11.9-5.6-14.4-17.6-14.4-24.3,0-17.3,14.4-30.7,38.3-30.7s37.9,12.4,37.9,31.7-4,18.2-14.5,23.3c12.9,6.4,17.2,16,17.2,26.2M190.7,152.5c0,9.4,6.6,15.8,18.8,15.8s18.7-5.6,18.7-16-.3-15.8-18.7-15.8-18.8,12.5-18.8,16M192.5,105.2c0,4.9,2.1,14.7,17.1,14.7s16.3-8.4,16.3-14.7c0-12.7-10.1-15-16.5-15-14-.2-17,8.9-17,15" inkscape:connector-curvature="0"/>
-      </g>
-    </g>
-  </g>
+  <path id="path255" class="cls-1" d="M0,2.2h35.3c14.8.2,24.7.2,34.4,8,6.9,5.7,12.3,14.5,12.3,27.3,0,21.2-15.6,28.6-21.9,30.5l24.7,45.1h-23.7l-22-41.2h-18.6v41.2H0V2.2h0ZM20.7,20.2v34.7h7.2c7.1,0,9.7-.2,13.7-.3,4.5-.2,19.5-.9,19.5-17.1s-.2-10.5-8.8-14.9c-4.4-2.2-9.8-2.4-22-2.4,0,0-9.6,0-9.6,0Z" inkscape:connector-curvature="0"/>
+  <path id="path257" class="cls-1" d="M137.4,1.8v111.4h-20.3v-63.7c0-10.6,0-13.7-9.1-13.7h-18.2v-12.7h2.1c10.4-.2,24.4-.3,28.9-21.3h16.6Z" inkscape:connector-curvature="0"/>
+  <path id="path259" class="cls-1" d="M232.5,81.2c0,20.3-17.5,33.5-41.8,33.5s-41.1-14.2-41.1-33.5,12.7-23.6,18.3-26.2c-11.9-5.6-14.4-17.6-14.4-24.3,0-17.3,14.4-30.7,38.3-30.7s37.9,12.4,37.9,31.7-4,18.2-14.5,23.3c12.9,6.4,17.2,16,17.2,26.2M173,80.5c0,9.4,6.6,15.8,18.8,15.8s18.7-5.6,18.7-16-.3-15.8-18.7-15.8-18.8,12.5-18.8,16M174.8,33.2c0,4.9,2.1,14.7,17.1,14.7s16.3-8.4,16.3-14.7c0-12.7-10.1-15-16.5-15-14-.2-17,8.9-17,15" inkscape:connector-curvature="0"/>
 </svg>
