@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_레이어_1" data-name=" 레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2832.077 700.223">
+<svg id="_레이어_1" data-name=" 레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2832 700.001">
   <defs>
     <style>
       .cls-1 {
@@ -8,19 +8,5 @@
       }
     </style>
   </defs>
-  <path class="cls-1" d="M858,670h310L810,51v649h-30V0h35l374,647V0h30v700h-361v-30Z"/>
-  <path class="cls-1" d="M2389.077.223v700h-30V.223h30ZM2800.077.223l-336,334,368,366h-43l-368-366L2757.077.223h43Z"/>
-  <path class="cls-1" d="M420,700.001h-30v-350H30v350H0V0h30v320h360V0h30v700h0Z"/>
-  <path class="cls-1" d="M780,700h-360v-30h360v30Z"/>
-  <path class="cls-1" d="M1579,700h-360v-30h360v30Z"/>
-  <path class="cls-1" d="M1579,30h-360V0h360v30Z"/>
-  <path class="cls-1" d="M1609,700h-30v-350h30v350Z"/>
-  <path class="cls-1" d="M1969,700h-360v-30h360v30Z"/>
-  <path class="cls-1" d="M1969,30h-360V0h360v30Z"/>
-  <path class="cls-1" d="M1969,365h-180v-30h180v30Z"/>
-  <path class="cls-1" d="M1609,365h-180v-30h180v30Z"/>
-  <path class="cls-1" d="M1999,700.001h-30V0h30v700h0Z"/>
-  <path class="cls-1" d="M2359,700h-360v-30h360v30Z"/>
-  <path class="cls-1" d="M2359,30h-360V0h360v30Z"/>
-  <path class="cls-1" d="M1609,30h-30V0h30v30Z"/>
+  <path class="cls-1" d="M2832,700h-43l-368-366L2757,0h43l-336,334,368,366ZM2389,0v700H858v-30h310L810,51v649h-420s0-349.999,0-349.999H30v350H0V0h30v320h360V0h30v670h360V0h35l374,647V0h1200ZM1969,30h-750v640h360v-305h-150v-30h180v335h360v-305h-180v-30h180V30ZM2359,30h-360v640h360V30Z"/>
 </svg>
