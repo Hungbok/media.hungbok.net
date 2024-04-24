@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="692.00018mm"
+   height="119.40842mm"
+   viewBox="0 0 692.00017 119.40843"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2"><linearGradient
+   id="linearGradient2806"><stop
+     style="stop-color:#13007c;stop-opacity:1;"
+     offset="0"
+     id="stop2802" /><stop
+     style="stop-color:#1393dd;stop-opacity:1"
+     offset="1"
+     id="stop2804" /></linearGradient><linearGradient
+   xlink:href="#linearGradient2806"
+   id="linearGradient11839"
+   gradientUnits="userSpaceOnUse"
+   x1="375.88223"
+   y1="1.5670226"
+   x2="375.88223"
+   y2="128.15395" /><linearGradient
+   xlink:href="#linearGradient2806"
+   id="linearGradient11841"
+   gradientUnits="userSpaceOnUse"
+   x1="375.88223"
+   y1="1.5670226"
+   x2="375.88223"
+   y2="128.15395" /><linearGradient
+   xlink:href="#linearGradient2806"
+   id="linearGradient11843"
+   gradientUnits="userSpaceOnUse"
+   x1="375.88223"
+   y1="1.5670226"
+   x2="375.88223"
+   y2="128.15395" />
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</defs><g
+     id="layer1"
+     transform="translate(-326.44138,39.376876)"><polygon
+       id="polygon5"
+       style="fill:url(#linearGradient11839);fill-opacity:1;fill-rule:evenodd"
+       points="0,59.874 0,129.721 9.143,129.721 9.143,69.021 233.679,69.021 233.679,0 0,0 0,9.149 225.361,9.149 225.361,59.874 "
+       transform="matrix(0.92050187,0,0,0.92050187,326.44138,-39.376876)" /><polygon
+       id="polygon7"
+       style="fill:url(#linearGradient11841);fill-opacity:1;fill-rule:evenodd"
+       points="742.62,9.149 742.62,59.874 517.252,59.874 517.252,129.721 751.764,129.721 751.764,120.584 527.237,120.584 527.237,69.021 751.764,69.021 751.764,0 517.252,0 517.252,9.149 "
+       transform="matrix(0.92050187,0,0,0.92050187,326.44138,-39.376876)" /><polygon
+       id="polygon9"
+       style="fill:url(#linearGradient11843);fill-opacity:1;fill-rule:evenodd"
+       points="482.325,9.149 482.325,0 353.431,0 353.431,120.584 233.679,120.584 233.679,129.721 363.407,129.721 363.407,9.149 "
+       transform="matrix(0.92050187,0,0,0.92050187,326.44138,-39.376876)" /></g></svg>
